@@ -27,3 +27,8 @@ scipy >= 1.10.1
 ```
 python Tmf.py
 ```
+
+## Execution Environment
+CPU：AMD EPYC 7313P 16cores 32threads 3.7Ghz
+Memory: 503GB
+OS: Ubuntu 20.04.5 LTS
