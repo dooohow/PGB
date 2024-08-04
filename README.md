@@ -15,12 +15,11 @@ scipy >= 1.10.1
 2. comm (folder): This folder is used for community discovery.
 3. utils.py (file): The file includes some functions that are needed for other files.
 4. graph results (folder): Line graph based on experimental results.
-5. result (folder): This folder is used to store the results.
-6. DGG.py (file): The file is used to obtain the results of DGG for experiments.
-7. DP-1K.py (file): The file is used to obtain the results of DP-dK for experiments.
-8. PrivGraph.py (file): The file is used to obtain the results of PrivGraph for experiments.
-9. SKG.py (file): The file is used to obtain the results of DP-SKG for experiments.
-10. Tmf.py (file): The file is used to obtain the results of Tmf for experiments.
+5. DGG.py (file): The file is used to obtain the results of DGG for experiments.
+6. DP-1K.py (file): The file is used to obtain the results of DP-dK for experiments.
+7. PrivGraph.py (file): The file is used to obtain the results of PrivGraph for experiments.
+8. SKG.py (file): The file is used to obtain the results of DP-SKG for experiments.
+9. Tmf.py (file): The file is used to obtain the results of Tmf for experiments.
 
 ## Run
 ##### Example: End to End ######
